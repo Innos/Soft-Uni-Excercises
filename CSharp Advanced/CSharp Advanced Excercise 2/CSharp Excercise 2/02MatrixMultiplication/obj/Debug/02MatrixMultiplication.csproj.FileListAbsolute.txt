@@ -1,0 +1,6 @@
+C:\Soft Uni\c# advanced\Lekciq 2\excercise 2\Excercise 1\02MatrixMultiplication\bin\Debug\02MatrixMultiplication.exe.config
+C:\Soft Uni\c# advanced\Lekciq 2\excercise 2\Excercise 1\02MatrixMultiplication\bin\Debug\02MatrixMultiplication.exe
+C:\Soft Uni\c# advanced\Lekciq 2\excercise 2\Excercise 1\02MatrixMultiplication\bin\Debug\02MatrixMultiplication.pdb
+C:\Soft Uni\c# advanced\Lekciq 2\excercise 2\Excercise 1\02MatrixMultiplication\obj\Debug\02MatrixMultiplication.csprojResolveAssemblyReference.cache
+C:\Soft Uni\c# advanced\Lekciq 2\excercise 2\Excercise 1\02MatrixMultiplication\obj\Debug\02MatrixMultiplication.exe
+C:\Soft Uni\c# advanced\Lekciq 2\excercise 2\Excercise 1\02MatrixMultiplication\obj\Debug\02MatrixMultiplication.pdb

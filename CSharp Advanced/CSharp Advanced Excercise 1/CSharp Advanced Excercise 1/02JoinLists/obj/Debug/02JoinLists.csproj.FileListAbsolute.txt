@@ -1,0 +1,12 @@
+C:\Soft Uni\c# advanced\Lekciq 1\CSharp Advanced Excercise 1\02JoinLists\bin\Debug\02JoinLists.exe.config
+C:\Soft Uni\c# advanced\Lekciq 1\CSharp Advanced Excercise 1\02JoinLists\bin\Debug\02JoinLists.exe
+C:\Soft Uni\c# advanced\Lekciq 1\CSharp Advanced Excercise 1\02JoinLists\bin\Debug\02JoinLists.pdb
+C:\Soft Uni\c# advanced\Lekciq 1\CSharp Advanced Excercise 1\02JoinLists\obj\Debug\02JoinLists.csprojResolveAssemblyReference.cache
+C:\Soft Uni\c# advanced\Lekciq 1\CSharp Advanced Excercise 1\02JoinLists\obj\Debug\02JoinLists.exe
+C:\Soft Uni\c# advanced\Lekciq 1\CSharp Advanced Excercise 1\02JoinLists\obj\Debug\02JoinLists.pdb
+E:\Soft Uni\C#Advanced\exercise\CSharp Advanced Excercise 1\02JoinLists\bin\Debug\02JoinLists.exe.config
+E:\Soft Uni\C#Advanced\exercise\CSharp Advanced Excercise 1\02JoinLists\obj\Debug\02JoinLists.exe
+E:\Soft Uni\C#Advanced\exercise\CSharp Advanced Excercise 1\02JoinLists\obj\Debug\02JoinLists.pdb
+E:\Soft Uni\Excercises\CSharp Advanced Excercise 1\02JoinLists\bin\Debug\02JoinLists.exe.config
+E:\Soft Uni\Excercises\CSharp Advanced Excercise 1\02JoinLists\obj\Debug\02JoinLists.exe
+E:\Soft Uni\Excercises\CSharp Advanced Excercise 1\02JoinLists\obj\Debug\02JoinLists.pdb

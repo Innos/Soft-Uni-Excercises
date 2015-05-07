@@ -1,0 +1,12 @@
+C:\Soft Uni\c# advanced\Lekciq 2\excercise 2\Excercise 1\01PrintingTriangle\bin\Debug\01PrintingTriangle.exe.config
+C:\Soft Uni\c# advanced\Lekciq 2\excercise 2\Excercise 1\01PrintingTriangle\bin\Debug\01PrintingTriangle.exe
+C:\Soft Uni\c# advanced\Lekciq 2\excercise 2\Excercise 1\01PrintingTriangle\bin\Debug\01PrintingTriangle.pdb
+C:\Soft Uni\c# advanced\Lekciq 2\excercise 2\Excercise 1\01PrintingTriangle\obj\Debug\01PrintingTriangle.csprojResolveAssemblyReference.cache
+C:\Soft Uni\c# advanced\Lekciq 2\excercise 2\Excercise 1\01PrintingTriangle\obj\Debug\01PrintingTriangle.exe
+C:\Soft Uni\c# advanced\Lekciq 2\excercise 2\Excercise 1\01PrintingTriangle\obj\Debug\01PrintingTriangle.pdb
+E:\Soft Uni\Excercises\CSharp Advanced Excercise 2\Excercise 1\01PrintingTriangle\bin\Debug\01PrintingTriangle.exe.config
+E:\Soft Uni\Excercises\CSharp Advanced Excercise 2\Excercise 1\01PrintingTriangle\obj\Debug\01PrintingTriangle.exe
+E:\Soft Uni\Excercises\CSharp Advanced Excercise 2\Excercise 1\01PrintingTriangle\obj\Debug\01PrintingTriangle.pdb
+E:\Soft Uni\Excercises\CSharp Advanced Excercise 2\Excercise 1\01PrintingTriangle\bin\Debug\01PrintingTriangle.exe
+E:\Soft Uni\Excercises\CSharp Advanced Excercise 2\Excercise 1\01PrintingTriangle\bin\Debug\01PrintingTriangle.pdb
+E:\Soft Uni\Excercises\CSharp Advanced Excercise 2\Excercise 1\01PrintingTriangle\obj\Debug\01PrintingTriangle.csprojResolveAssemblyReference.cache

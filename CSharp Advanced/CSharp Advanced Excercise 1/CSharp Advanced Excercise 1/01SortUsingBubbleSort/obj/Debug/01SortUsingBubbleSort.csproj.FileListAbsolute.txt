@@ -1,0 +1,12 @@
+C:\Soft Uni\c# advanced\Lekciq 1\CSharp Advanced Excercise 1\01SortUsingBubbleSort\bin\Debug\01SortUsingBubbleSort.exe.config
+C:\Soft Uni\c# advanced\Lekciq 1\CSharp Advanced Excercise 1\01SortUsingBubbleSort\bin\Debug\01SortUsingBubbleSort.exe
+C:\Soft Uni\c# advanced\Lekciq 1\CSharp Advanced Excercise 1\01SortUsingBubbleSort\bin\Debug\01SortUsingBubbleSort.pdb
+C:\Soft Uni\c# advanced\Lekciq 1\CSharp Advanced Excercise 1\01SortUsingBubbleSort\obj\Debug\01SortUsingBubbleSort.csprojResolveAssemblyReference.cache
+C:\Soft Uni\c# advanced\Lekciq 1\CSharp Advanced Excercise 1\01SortUsingBubbleSort\obj\Debug\01SortUsingBubbleSort.exe
+C:\Soft Uni\c# advanced\Lekciq 1\CSharp Advanced Excercise 1\01SortUsingBubbleSort\obj\Debug\01SortUsingBubbleSort.pdb
+E:\Soft Uni\C#Advanced\exercise\CSharp Advanced Excercise 1\01SortUsingBubbleSort\bin\Debug\01SortUsingBubbleSort.exe.config
+E:\Soft Uni\C#Advanced\exercise\CSharp Advanced Excercise 1\01SortUsingBubbleSort\obj\Debug\01SortUsingBubbleSort.exe
+E:\Soft Uni\C#Advanced\exercise\CSharp Advanced Excercise 1\01SortUsingBubbleSort\obj\Debug\01SortUsingBubbleSort.pdb
+E:\Soft Uni\Excercises\CSharp Advanced Excercise 1\01SortUsingBubbleSort\bin\Debug\01SortUsingBubbleSort.exe.config
+E:\Soft Uni\Excercises\CSharp Advanced Excercise 1\01SortUsingBubbleSort\obj\Debug\01SortUsingBubbleSort.exe
+E:\Soft Uni\Excercises\CSharp Advanced Excercise 1\01SortUsingBubbleSort\obj\Debug\01SortUsingBubbleSort.pdb

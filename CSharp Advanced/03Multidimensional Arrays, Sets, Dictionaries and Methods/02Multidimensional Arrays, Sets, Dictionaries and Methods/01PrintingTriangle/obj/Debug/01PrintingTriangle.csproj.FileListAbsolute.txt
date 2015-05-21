@@ -10,3 +10,6 @@ E:\Soft Uni\Excercises\CSharp Advanced Excercise 2\Excercise 1\01PrintingTriangl
 E:\Soft Uni\Excercises\CSharp Advanced Excercise 2\Excercise 1\01PrintingTriangle\bin\Debug\01PrintingTriangle.exe
 E:\Soft Uni\Excercises\CSharp Advanced Excercise 2\Excercise 1\01PrintingTriangle\bin\Debug\01PrintingTriangle.pdb
 E:\Soft Uni\Excercises\CSharp Advanced Excercise 2\Excercise 1\01PrintingTriangle\obj\Debug\01PrintingTriangle.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Excercises\CSharp Advanced\03Multidimensional Arrays, Sets, Dictionaries and Methods\02Multidimensional Arrays, Sets, Dictionaries and Methods\01PrintingTriangle\bin\Debug\01PrintingTriangle.exe.config
+E:\Soft Uni\Excercises\CSharp Advanced\03Multidimensional Arrays, Sets, Dictionaries and Methods\02Multidimensional Arrays, Sets, Dictionaries and Methods\01PrintingTriangle\obj\Debug\01PrintingTriangle.exe
+E:\Soft Uni\Excercises\CSharp Advanced\03Multidimensional Arrays, Sets, Dictionaries and Methods\02Multidimensional Arrays, Sets, Dictionaries and Methods\01PrintingTriangle\obj\Debug\01PrintingTriangle.pdb

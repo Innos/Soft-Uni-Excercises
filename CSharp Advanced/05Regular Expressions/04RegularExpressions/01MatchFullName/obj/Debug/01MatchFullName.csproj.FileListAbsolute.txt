@@ -1,0 +1,5 @@
+E:\Soft Uni\Excercises\CSharp Advanced\04Regular Expressions\04RegularExpressions\01MatchFullName\bin\Debug\01MatchFullName.exe.config
+E:\Soft Uni\Excercises\CSharp Advanced\04Regular Expressions\04RegularExpressions\01MatchFullName\bin\Debug\01MatchFullName.exe
+E:\Soft Uni\Excercises\CSharp Advanced\04Regular Expressions\04RegularExpressions\01MatchFullName\bin\Debug\01MatchFullName.pdb
+E:\Soft Uni\Excercises\CSharp Advanced\04Regular Expressions\04RegularExpressions\01MatchFullName\obj\Debug\01MatchFullName.exe
+E:\Soft Uni\Excercises\CSharp Advanced\04Regular Expressions\04RegularExpressions\01MatchFullName\obj\Debug\01MatchFullName.pdb

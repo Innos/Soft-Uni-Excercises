@@ -1,0 +1,9 @@
+C:\Soft Uni\Excercises\CSharp Advanced\05Functional Programming\01ExtendTheStingbuilderClass\bin\Debug\01ExtendTheStingbuilderClass.exe.config
+C:\Soft Uni\Excercises\CSharp Advanced\05Functional Programming\01ExtendTheStingbuilderClass\bin\Debug\01ExtendTheStingbuilderClass.exe
+C:\Soft Uni\Excercises\CSharp Advanced\05Functional Programming\01ExtendTheStingbuilderClass\bin\Debug\01ExtendTheStingbuilderClass.pdb
+C:\Soft Uni\Excercises\CSharp Advanced\05Functional Programming\01ExtendTheStingbuilderClass\obj\Debug\01ExtendTheStingbuilderClass.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Excercises\CSharp Advanced\05Functional Programming\01ExtendTheStingbuilderClass\obj\Debug\01ExtendTheStingbuilderClass.exe
+C:\Soft Uni\Excercises\CSharp Advanced\05Functional Programming\01ExtendTheStingbuilderClass\obj\Debug\01ExtendTheStingbuilderClass.pdb
+E:\Soft Uni\Excercises\CSharp Advanced\07Functional Programming\07Functional Programming\01ExtendTheStingbuilderClass\bin\Debug\01ExtendTheStingbuilderClass.exe.config
+E:\Soft Uni\Excercises\CSharp Advanced\07Functional Programming\07Functional Programming\01ExtendTheStingbuilderClass\obj\Debug\01ExtendTheStingbuilderClass.exe
+E:\Soft Uni\Excercises\CSharp Advanced\07Functional Programming\07Functional Programming\01ExtendTheStingbuilderClass\obj\Debug\01ExtendTheStingbuilderClass.pdb

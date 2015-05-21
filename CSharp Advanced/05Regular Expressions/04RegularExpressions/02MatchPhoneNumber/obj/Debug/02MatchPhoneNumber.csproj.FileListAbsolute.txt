@@ -1,0 +1,5 @@
+E:\Soft Uni\Excercises\CSharp Advanced\04Regular Expressions\04RegularExpressions\02MatchPhoneNumber\bin\Debug\02MatchPhoneNumber.exe.config
+E:\Soft Uni\Excercises\CSharp Advanced\04Regular Expressions\04RegularExpressions\02MatchPhoneNumber\bin\Debug\02MatchPhoneNumber.exe
+E:\Soft Uni\Excercises\CSharp Advanced\04Regular Expressions\04RegularExpressions\02MatchPhoneNumber\bin\Debug\02MatchPhoneNumber.pdb
+E:\Soft Uni\Excercises\CSharp Advanced\04Regular Expressions\04RegularExpressions\02MatchPhoneNumber\obj\Debug\02MatchPhoneNumber.exe
+E:\Soft Uni\Excercises\CSharp Advanced\04Regular Expressions\04RegularExpressions\02MatchPhoneNumber\obj\Debug\02MatchPhoneNumber.pdb

@@ -1,0 +1,4 @@
+C:\Users\Filip Kolev\Desktop\7. Advanced-CSharp-Functional-Programming-Exercise-2\LinqExercise\bin\Debug\LinqExercise.exe.config
+E:\Soft Uni\Excercises\CSharp Advanced\07Functional Programming\Assignment\Excercise 2\LinqExercise\bin\Debug\LinqExercise.exe.config
+E:\Soft Uni\Excercises\CSharp Advanced\07Functional Programming\Assignment\Excercise 2\LinqExercise\obj\Debug\LinqExercise.exe
+E:\Soft Uni\Excercises\CSharp Advanced\07Functional Programming\Assignment\Excercise 2\LinqExercise\obj\Debug\LinqExercise.pdb

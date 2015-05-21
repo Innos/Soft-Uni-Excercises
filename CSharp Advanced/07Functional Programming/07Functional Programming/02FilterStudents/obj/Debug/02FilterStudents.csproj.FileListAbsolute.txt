@@ -1,0 +1,7 @@
+C:\Soft Uni\Excercises\CSharp Advanced\05Functional Programming\02FilterStudents\bin\Debug\02FilterStudents.exe.config
+E:\Soft Uni\Excercises\CSharp Advanced\07Functional Programming\07Functional Programming\02FilterStudents\bin\Debug\02FilterStudents.exe.config
+E:\Soft Uni\Excercises\CSharp Advanced\07Functional Programming\07Functional Programming\02FilterStudents\bin\Debug\02FilterStudents.exe
+E:\Soft Uni\Excercises\CSharp Advanced\07Functional Programming\07Functional Programming\02FilterStudents\bin\Debug\02FilterStudents.pdb
+E:\Soft Uni\Excercises\CSharp Advanced\07Functional Programming\07Functional Programming\02FilterStudents\obj\Debug\02FilterStudents.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Excercises\CSharp Advanced\07Functional Programming\07Functional Programming\02FilterStudents\obj\Debug\02FilterStudents.exe
+E:\Soft Uni\Excercises\CSharp Advanced\07Functional Programming\07Functional Programming\02FilterStudents\obj\Debug\02FilterStudents.pdb

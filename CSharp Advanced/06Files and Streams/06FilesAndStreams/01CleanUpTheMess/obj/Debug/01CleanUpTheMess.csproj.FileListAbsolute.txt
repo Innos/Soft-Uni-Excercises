@@ -7,3 +7,6 @@ C:\Soft Uni\Excercises\CSharp Advanced\04FilesAndStreams\01CleanUpTheMess\obj\De
 E:\Soft Uni\Excercises\CSharp Advanced\04FilesAndStreams\01CleanUpTheMess\bin\Debug\01CleanUpTheMess.exe.config
 E:\Soft Uni\Excercises\CSharp Advanced\04FilesAndStreams\01CleanUpTheMess\obj\Debug\01CleanUpTheMess.exe
 E:\Soft Uni\Excercises\CSharp Advanced\04FilesAndStreams\01CleanUpTheMess\obj\Debug\01CleanUpTheMess.pdb
+E:\Soft Uni\Excercises\CSharp Advanced\06Files and Streams\06FilesAndStreams\01CleanUpTheMess\bin\Debug\01CleanUpTheMess.exe.config
+E:\Soft Uni\Excercises\CSharp Advanced\06Files and Streams\06FilesAndStreams\01CleanUpTheMess\obj\Debug\01CleanUpTheMess.exe
+E:\Soft Uni\Excercises\CSharp Advanced\06Files and Streams\06FilesAndStreams\01CleanUpTheMess\obj\Debug\01CleanUpTheMess.pdb

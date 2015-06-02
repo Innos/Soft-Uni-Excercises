@@ -1,0 +1,6 @@
+E:\Soft Uni\Excercises\OOP\01DefininfClasses\01DefiningClasses\01DefineAClassDog\bin\Debug\01DefineAClassDog.exe.config
+E:\Soft Uni\Excercises\OOP\01DefininfClasses\01DefiningClasses\01DefineAClassDog\bin\Debug\01DefineAClassDog.exe
+E:\Soft Uni\Excercises\OOP\01DefininfClasses\01DefiningClasses\01DefineAClassDog\bin\Debug\01DefineAClassDog.pdb
+E:\Soft Uni\Excercises\OOP\01DefininfClasses\01DefiningClasses\01DefineAClassDog\obj\Debug\01DefineAClassDog.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Excercises\OOP\01DefininfClasses\01DefiningClasses\01DefineAClassDog\obj\Debug\01DefineAClassDog.exe
+E:\Soft Uni\Excercises\OOP\01DefininfClasses\01DefiningClasses\01DefineAClassDog\obj\Debug\01DefineAClassDog.pdb

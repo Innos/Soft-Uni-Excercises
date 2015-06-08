@@ -1,0 +1,1 @@
+C:\Soft Uni\Excercises\OOP\04InheritanceAndAbstraction\04InhteritanceAndAbstraction\02InheritanceAndAbstraction\bin\Debug\02InheritanceAndAbstraction.exe.config

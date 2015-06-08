@@ -1,0 +1,1 @@
+E:\Soft Uni\Excercises\OOP\02StaticMembersAndNamespaces\02StaticMembersAndNamespaces\01StructureOfAnRPGGame\bin\Debug\01StructureOfAnRPGGame.exe.config

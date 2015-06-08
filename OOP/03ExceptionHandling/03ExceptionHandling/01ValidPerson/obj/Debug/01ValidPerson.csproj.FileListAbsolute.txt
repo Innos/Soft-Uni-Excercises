@@ -1,0 +1,6 @@
+E:\Soft Uni\Excercises\OOP\03ExceptionHandling\03ExceptionHandling\01ValidPerson\bin\Debug\01ValidPerson.exe.config
+E:\Soft Uni\Excercises\OOP\03ExceptionHandling\03ExceptionHandling\01ValidPerson\bin\Debug\01ValidPerson.exe
+E:\Soft Uni\Excercises\OOP\03ExceptionHandling\03ExceptionHandling\01ValidPerson\bin\Debug\01ValidPerson.pdb
+E:\Soft Uni\Excercises\OOP\03ExceptionHandling\03ExceptionHandling\01ValidPerson\obj\Debug\01ValidPerson.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Excercises\OOP\03ExceptionHandling\03ExceptionHandling\01ValidPerson\obj\Debug\01ValidPerson.exe
+E:\Soft Uni\Excercises\OOP\03ExceptionHandling\03ExceptionHandling\01ValidPerson\obj\Debug\01ValidPerson.pdb

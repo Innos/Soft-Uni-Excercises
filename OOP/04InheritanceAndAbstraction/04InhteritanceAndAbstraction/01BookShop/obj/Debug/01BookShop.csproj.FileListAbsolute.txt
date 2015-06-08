@@ -1,0 +1,6 @@
+C:\Soft Uni\Excercises\OOP\04InheritanceAndAbstraction\04InhteritanceAndAbstraction\01BookShop\bin\Debug\01BookShop.exe.config
+C:\Soft Uni\Excercises\OOP\04InheritanceAndAbstraction\04InhteritanceAndAbstraction\01BookShop\bin\Debug\01BookShop.exe
+C:\Soft Uni\Excercises\OOP\04InheritanceAndAbstraction\04InhteritanceAndAbstraction\01BookShop\bin\Debug\01BookShop.pdb
+C:\Soft Uni\Excercises\OOP\04InheritanceAndAbstraction\04InhteritanceAndAbstraction\01BookShop\obj\Debug\01BookShop.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Excercises\OOP\04InheritanceAndAbstraction\04InhteritanceAndAbstraction\01BookShop\obj\Debug\01BookShop.exe
+C:\Soft Uni\Excercises\OOP\04InheritanceAndAbstraction\04InhteritanceAndAbstraction\01BookShop\obj\Debug\01BookShop.pdb

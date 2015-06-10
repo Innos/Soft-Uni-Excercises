@@ -1,0 +1,6 @@
+C:\Soft Uni\Excercises\OOP\05EncapsulationAndPolymorphism\05EncapsulationAndPolymorphism\Battleships\bin\Debug\Battleships.exe.config
+C:\Soft Uni\Excercises\OOP\05EncapsulationAndPolymorphism\05EncapsulationAndPolymorphism\Battleships\obj\Debug\Battleships.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Excercises\OOP\05EncapsulationAndPolymorphism\05EncapsulationAndPolymorphism\Battleships\bin\Debug\Battleships.exe
+C:\Soft Uni\Excercises\OOP\05EncapsulationAndPolymorphism\05EncapsulationAndPolymorphism\Battleships\bin\Debug\Battleships.pdb
+C:\Soft Uni\Excercises\OOP\05EncapsulationAndPolymorphism\05EncapsulationAndPolymorphism\Battleships\obj\Debug\Battleships.exe
+C:\Soft Uni\Excercises\OOP\05EncapsulationAndPolymorphism\05EncapsulationAndPolymorphism\Battleships\obj\Debug\Battleships.pdb

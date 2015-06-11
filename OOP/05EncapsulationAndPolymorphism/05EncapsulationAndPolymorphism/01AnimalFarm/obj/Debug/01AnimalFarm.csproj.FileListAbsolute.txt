@@ -1,0 +1,3 @@
+E:\Soft Uni\Excercises\OOP\05EncapsulationAndPolymorphism\05EncapsulationAndPolymorphism\01AnimalFarm\bin\Debug\AnimalFarm.exe.config
+E:\Soft Uni\Excercises\OOP\05EncapsulationAndPolymorphism\05EncapsulationAndPolymorphism\01AnimalFarm\obj\Debug\AnimalFarm.exe
+E:\Soft Uni\Excercises\OOP\05EncapsulationAndPolymorphism\05EncapsulationAndPolymorphism\01AnimalFarm\obj\Debug\AnimalFarm.pdb

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalFarm", "AnimalFarm\AnimalFarm.csproj", "{667B013A-C426-4C68-A9FF-08042D18758B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01AnimalFarm", "01AnimalFarm\01AnimalFarm.csproj", "{667B013A-C426-4C68-A9FF-08042D18758B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battleships", "Battleships\Battleships.csproj", "{756AA96B-9BBA-48E2-A8ED-E78D2CCCDFEA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Battleships", "02Battleships\02Battleships.csproj", "{756AA96B-9BBA-48E2-A8ED-E78D2CCCDFEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStore", "BookStore\BookStore.csproj", "{90CB3B3E-712B-4ECB-A97F-0C038227556D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03BookStore", "03BookStore\03BookStore.csproj", "{90CB3B3E-712B-4ECB-A97F-0C038227556D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

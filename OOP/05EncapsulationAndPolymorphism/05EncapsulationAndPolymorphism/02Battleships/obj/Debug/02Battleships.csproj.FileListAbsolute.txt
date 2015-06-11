@@ -1,0 +1,3 @@
+E:\Soft Uni\Excercises\OOP\05EncapsulationAndPolymorphism\05EncapsulationAndPolymorphism\02Battleships\bin\Debug\Battleships.exe.config
+E:\Soft Uni\Excercises\OOP\05EncapsulationAndPolymorphism\05EncapsulationAndPolymorphism\02Battleships\obj\Debug\Battleships.exe
+E:\Soft Uni\Excercises\OOP\05EncapsulationAndPolymorphism\05EncapsulationAndPolymorphism\02Battleships\obj\Debug\Battleships.pdb

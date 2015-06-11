@@ -4,3 +4,6 @@ C:\Soft Uni\Excercises\OOP\05EncapsulationAndPolymorphism\05EncapsulationAndPoly
 C:\Soft Uni\Excercises\OOP\05EncapsulationAndPolymorphism\05EncapsulationAndPolymorphism\Battleships\bin\Debug\Battleships.pdb
 C:\Soft Uni\Excercises\OOP\05EncapsulationAndPolymorphism\05EncapsulationAndPolymorphism\Battleships\obj\Debug\Battleships.exe
 C:\Soft Uni\Excercises\OOP\05EncapsulationAndPolymorphism\05EncapsulationAndPolymorphism\Battleships\obj\Debug\Battleships.pdb
+E:\Soft Uni\Excercises\OOP\05EncapsulationAndPolymorphism\05EncapsulationAndPolymorphism\Battleships\bin\Debug\Battleships.exe.config
+E:\Soft Uni\Excercises\OOP\05EncapsulationAndPolymorphism\05EncapsulationAndPolymorphism\Battleships\obj\Debug\Battleships.exe
+E:\Soft Uni\Excercises\OOP\05EncapsulationAndPolymorphism\05EncapsulationAndPolymorphism\Battleships\obj\Debug\Battleships.pdb

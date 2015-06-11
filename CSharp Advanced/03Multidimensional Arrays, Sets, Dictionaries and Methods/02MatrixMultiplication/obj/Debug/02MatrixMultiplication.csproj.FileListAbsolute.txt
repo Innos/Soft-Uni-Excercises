@@ -7,3 +7,9 @@ C:\Soft Uni\c# advanced\Lekciq 2\excercise 2\Excercise 1\02MatrixMultiplication\
 E:\Soft Uni\Excercises\CSharp Advanced\03Multidimensional Arrays, Sets, Dictionaries and Methods\02Multidimensional Arrays, Sets, Dictionaries and Methods\02MatrixMultiplication\bin\Debug\02MatrixMultiplication.exe.config
 E:\Soft Uni\Excercises\CSharp Advanced\03Multidimensional Arrays, Sets, Dictionaries and Methods\02Multidimensional Arrays, Sets, Dictionaries and Methods\02MatrixMultiplication\obj\Debug\02MatrixMultiplication.exe
 E:\Soft Uni\Excercises\CSharp Advanced\03Multidimensional Arrays, Sets, Dictionaries and Methods\02Multidimensional Arrays, Sets, Dictionaries and Methods\02MatrixMultiplication\obj\Debug\02MatrixMultiplication.pdb
+E:\Soft Uni\Excercises\CSharp Advanced\03Multidimensional Arrays, Sets, Dictionaries and Methods\02MatrixMultiplication\bin\Debug\02MatrixMultiplication.exe.config
+E:\Soft Uni\Excercises\CSharp Advanced\03Multidimensional Arrays, Sets, Dictionaries and Methods\02MatrixMultiplication\obj\Debug\02MatrixMultiplication.exe
+E:\Soft Uni\Excercises\CSharp Advanced\03Multidimensional Arrays, Sets, Dictionaries and Methods\02MatrixMultiplication\obj\Debug\02MatrixMultiplication.pdb
+E:\Soft Uni\Excercises\CSharp Advanced\03Multidimensional Arrays, Sets, Dictionaries and Methods\02MatrixMultiplication\bin\Debug\02MatrixMultiplication.exe
+E:\Soft Uni\Excercises\CSharp Advanced\03Multidimensional Arrays, Sets, Dictionaries and Methods\02MatrixMultiplication\bin\Debug\02MatrixMultiplication.pdb
+E:\Soft Uni\Excercises\CSharp Advanced\03Multidimensional Arrays, Sets, Dictionaries and Methods\02MatrixMultiplication\obj\Debug\02MatrixMultiplication.csprojResolveAssemblyReference.cache

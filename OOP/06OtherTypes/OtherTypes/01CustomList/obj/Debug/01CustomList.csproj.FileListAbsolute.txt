@@ -1,0 +1,6 @@
+C:\Soft Uni\Excercises\OOP\06OtherTypes\OtherTypes\01CustomList\bin\Debug\01CustomList.exe.config
+C:\Soft Uni\Excercises\OOP\06OtherTypes\OtherTypes\01CustomList\bin\Debug\01CustomList.exe
+C:\Soft Uni\Excercises\OOP\06OtherTypes\OtherTypes\01CustomList\bin\Debug\01CustomList.pdb
+C:\Soft Uni\Excercises\OOP\06OtherTypes\OtherTypes\01CustomList\obj\Debug\01CustomList.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Excercises\OOP\06OtherTypes\OtherTypes\01CustomList\obj\Debug\01CustomList.exe
+C:\Soft Uni\Excercises\OOP\06OtherTypes\OtherTypes\01CustomList\obj\Debug\01CustomList.pdb

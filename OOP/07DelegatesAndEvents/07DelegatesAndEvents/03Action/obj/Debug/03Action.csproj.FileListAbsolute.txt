@@ -1,0 +1,5 @@
+E:\Soft Uni\Excercises\OOP\07DelegatesAndEvents\07DelegatesAndEvents\03Action\bin\Debug\03Action.exe.config
+E:\Soft Uni\Excercises\OOP\07DelegatesAndEvents\07DelegatesAndEvents\03Action\bin\Debug\03Action.exe
+E:\Soft Uni\Excercises\OOP\07DelegatesAndEvents\07DelegatesAndEvents\03Action\bin\Debug\03Action.pdb
+E:\Soft Uni\Excercises\OOP\07DelegatesAndEvents\07DelegatesAndEvents\03Action\obj\Debug\03Action.exe
+E:\Soft Uni\Excercises\OOP\07DelegatesAndEvents\07DelegatesAndEvents\03Action\obj\Debug\03Action.pdb

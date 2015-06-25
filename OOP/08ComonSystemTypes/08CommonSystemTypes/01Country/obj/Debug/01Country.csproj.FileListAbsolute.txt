@@ -1,0 +1,12 @@
+C:\Soft Uni\Excercises\OOP\08ComonSystemTypes\08CommonSystemTypes\01Country\bin\Debug\01Country.exe.config
+C:\Soft Uni\Excercises\OOP\08ComonSystemTypes\08CommonSystemTypes\01Country\obj\Debug\01Country.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Excercises\OOP\08ComonSystemTypes\08CommonSystemTypes\01Country\bin\Debug\01Country.exe
+C:\Soft Uni\Excercises\OOP\08ComonSystemTypes\08CommonSystemTypes\01Country\bin\Debug\01Country.pdb
+C:\Soft Uni\Excercises\OOP\08ComonSystemTypes\08CommonSystemTypes\01Country\obj\Debug\01Country.exe
+C:\Soft Uni\Excercises\OOP\08ComonSystemTypes\08CommonSystemTypes\01Country\obj\Debug\01Country.pdb
+E:\Soft Uni\Excercises\OOP\08ComonSystemTypes\08CommonSystemTypes\01Country\bin\Debug\01Country.exe.config
+E:\Soft Uni\Excercises\OOP\08ComonSystemTypes\08CommonSystemTypes\01Country\obj\Debug\01Country.exe
+E:\Soft Uni\Excercises\OOP\08ComonSystemTypes\08CommonSystemTypes\01Country\obj\Debug\01Country.pdb
+E:\Soft Uni\Excercises\OOP\08ComonSystemTypes\08CommonSystemTypes\01Country\bin\Debug\01Country.exe
+E:\Soft Uni\Excercises\OOP\08ComonSystemTypes\08CommonSystemTypes\01Country\bin\Debug\01Country.pdb
+E:\Soft Uni\Excercises\OOP\08ComonSystemTypes\08CommonSystemTypes\01Country\obj\Debug\01Country.csprojResolveAssemblyReference.cache

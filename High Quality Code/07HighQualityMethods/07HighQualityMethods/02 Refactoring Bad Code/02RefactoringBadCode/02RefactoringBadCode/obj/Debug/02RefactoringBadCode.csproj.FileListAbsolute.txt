@@ -1,0 +1,1 @@
+C:\Soft Uni\Excercises\High Quality Code\07HighQualityMethods\07HighQualityMethods\02 Refactoring Bad Code\02RefactoringBadCode\02RefactoringBadCode\bin\Debug\02RefactoringBadCode.exe.config

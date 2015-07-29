@@ -1,0 +1,6 @@
+C:\Soft Uni\Excercises\High Quality Code\11UnitTesting\TreeTests\Tree\bin\Debug\Tree.exe.config
+C:\Soft Uni\Excercises\High Quality Code\11UnitTesting\TreeTests\Tree\bin\Debug\Tree.exe
+C:\Soft Uni\Excercises\High Quality Code\11UnitTesting\TreeTests\Tree\bin\Debug\Tree.pdb
+C:\Soft Uni\Excercises\High Quality Code\11UnitTesting\TreeTests\Tree\obj\Debug\Tree.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Excercises\High Quality Code\11UnitTesting\TreeTests\Tree\obj\Debug\Tree.exe
+C:\Soft Uni\Excercises\High Quality Code\11UnitTesting\TreeTests\Tree\obj\Debug\Tree.pdb

@@ -1,0 +1,6 @@
+C:\Soft Uni\Excercises\High Quality Code\16Debugging\16Debugging\16Debugging\bin\Debug\16Debugging.exe.config
+C:\Soft Uni\Excercises\High Quality Code\16Debugging\16Debugging\16Debugging\bin\Debug\16Debugging.exe
+C:\Soft Uni\Excercises\High Quality Code\16Debugging\16Debugging\16Debugging\bin\Debug\16Debugging.pdb
+C:\Soft Uni\Excercises\High Quality Code\16Debugging\16Debugging\16Debugging\obj\Debug\16Debugging.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Excercises\High Quality Code\16Debugging\16Debugging\16Debugging\obj\Debug\16Debugging.exe
+C:\Soft Uni\Excercises\High Quality Code\16Debugging\16Debugging\16Debugging\obj\Debug\16Debugging.pdb

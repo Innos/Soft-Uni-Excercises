@@ -36,14 +36,14 @@
                     lastIndex = i;
                 }
             }
-            var lis = new List<int>();
+            var list = new List<int>();
             while (lastIndex != -1)
             {
-                lis.Add(sequence[lastIndex]);
+                list.Add(sequence[lastIndex]);
                 lastIndex = prev[lastIndex];
             }
-            lis.Reverse();
-            return lis.ToArray();
+            list.Reverse();
+            return list.ToArray();
         }
     }
 }

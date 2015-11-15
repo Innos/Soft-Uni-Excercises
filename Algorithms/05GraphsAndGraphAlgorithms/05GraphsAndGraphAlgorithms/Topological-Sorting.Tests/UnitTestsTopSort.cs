@@ -149,6 +149,7 @@ public class UnitTestsTopSort
             { "C", new List<string>() { "D", "E" } },
             { "D", new List<string>() { "E" } },
             { "E", new List<string>() { "F", "C" } },
+            { "F", new List<string>() },
             { "Z", new List<string>() { "A" } }
         };
 

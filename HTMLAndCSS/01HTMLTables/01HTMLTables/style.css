@@ -1,0 +1,24 @@
+table{
+	margin:2px; 
+	background-color: #E0E0E0;
+	border: 4px outset #606060;
+}
+td {
+	border: 1px solid #808080;
+}
+#month{
+	text-align: center;
+	font-size:30px;
+}
+.header {
+	text-align: right;
+	font-weight:bold;
+	background-color: #C0C0C0;
+	border: 1px solid #808080;
+}
+.weekend {
+	font-weight:bold;
+}
+.other-month {
+	color: gray;
+}
